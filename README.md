@@ -1,1 +1,1 @@
-1. https://github.com/karpathy/micrograd
+1. autograd: https://github.com/karpathy/micrograd
